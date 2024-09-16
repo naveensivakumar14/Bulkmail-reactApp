@@ -1,7 +1,7 @@
 BulkMail - MERN Stack Bulk Email Sender
-BulkMail is a full-stack application designed for sending bulk emails effortlessly.
+BulkMail is a full-stack application designed to send bulk emails effortlessly.
 Built using the MERN stack (MongoDB, Express, React, and Node.js), this project simplifies email campaign management for businesses, organizations,
-and individuals who must simultaneously send emails to multiple recipients.
+and individuals who simultaneously send emails to multiple recipients.
 
 🚀 Features
 User Authentication: Secure login and registration using JWT (JSON Web Tokens).
