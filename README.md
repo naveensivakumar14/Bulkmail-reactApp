@@ -22,3 +22,4 @@ MongoDB: For storing user data, email campaigns, and recipient information.
 Nodemailer: For sending emails via SMTP.
 JWT (JSON Web Tokens): Secure user authentication.
 
+Thank you
